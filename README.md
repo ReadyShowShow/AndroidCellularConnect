@@ -3,4 +3,4 @@
 
 这是个demo:  
 
-![运行截图](./picture/demo.jpg)
+![运行截图](picture/demo.jpg)
